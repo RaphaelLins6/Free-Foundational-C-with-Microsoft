@@ -1,9 +1,10 @@
 ﻿using System;
 
+namespace FreeFoundationalCSharpWithMicrosoft.EscrevaSeuPrimeiroCodigoUsandoCSharp{
 // Primeiro exercício de C#
 // Criar um programa que imprima na tela a frase "Olá mundo!".
 class PrimeiroCodigo {
-    static void Main(string[] args) {
+    public static void Executar() {
         Console.WriteLine("Olá mundo!");
 
         // Adicione novas linhas de código aqui:
@@ -22,4 +23,4 @@ class PrimeiroCodigo {
         Console.ReadLine();
     }
 }
-
+}
