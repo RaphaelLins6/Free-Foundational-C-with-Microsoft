@@ -24,3 +24,16 @@ Este curso é ideal para iniciantes que desejam aprender C# e começar a program
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Raphaellins6/free-foundational-csharp.git
+   ```
+
+## 🖥️ Tecnologias Utilizadas
+
+<p align="center"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" /> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="60" height="50"/> &nbsp;&nbsp;
+
+---
+
+## 📜 Licença
+
+Este projeto é livre para uso e modificação. Contribuições são bem-vindas! 😊
